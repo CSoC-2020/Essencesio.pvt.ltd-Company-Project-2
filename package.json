@@ -27,7 +27,7 @@
     "angular-image-slider": "0.0.8",
     "angular5-social-login": "^1.0.9",
     "angularx-social-login": "^1.2.7",
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "bcryptjs": "^2.4.3",
     "bootstrap": "^3.4.1",
     "cookie-parser": "^1.4.4",
